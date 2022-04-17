@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 
 
-Hello everyone, I'm a 3rd-year master student at Huazhong University of Science and Technology, Wuhan, China.
+- 👋 Hello everyone, I'm a 3rd-year master student at Huazhong University of Science and Technology, Wuhan, China.
 
-I'm currently working on multi-view 3D reconstruction, especially on learning-based multi-view stereo.
+- 🔭 I'm currently working on multi-view 3D reconstruction, especially on learning-based multi-view stereo.
 
 <!--
 **XYZ-qiyh/XYZ-qiyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
