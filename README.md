@@ -2,7 +2,7 @@
 
 - ☀️ May you have a good day！
 - 🎓 Master of HUST (Multi-view Stereo and 3D Reconstruction)
-- 💻 Now working on XR algorithm at OPPO
+- 😎 Now working on XR algorithm at OPPO
 
 <!--
 - 👋 Hello everyone, I'm a 3rd-year master student at Huazhong University of Science and Technology, Wuhan, China.
